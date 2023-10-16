@@ -1,0 +1,23 @@
+20 NYtimes columnists
+https://www.nytimes.com/section/opinion/columnists
+
+bs Bret Stephens
+cb Charles M Blow
+db David Brooks
+fb Frank Bruni
+fm Farhad Manjoo
+gc Gail Collins
+je Jane E Brody
+jb Jamelle Bouie
+jm John McWhorter
+mc Michelle Cottle
+md Maureen Dowd
+mg Michelle Goldberg
+mr Margaret Renkl
+nk Nicholas Kristof
+pk Paul Krugman
+rd Ross Dothat
+sb Spencer Bokat Lindell
+te Thomas B Edsall
+tf Thomas L Friedman
+zt Zeynet Tufekci
